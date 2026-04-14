@@ -1,6 +1,6 @@
 """
 Autonomous AI Agent Protocol - FastAPI Backend
-Author: [Your Name]
+Author: vishal Rathod  
 Description: A platform where AI agents can register, search, call each other, and track usage.
 """
 
